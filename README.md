@@ -58,7 +58,7 @@ This program is an innovative meal budgeting tool designed specifically for univ
 
 ```bash
 
-python part1.py
+python Part1.py
 
 ```
 
