@@ -14,6 +14,8 @@ Exploring Object-Oriented Programming concepts in Python
 
 • ILBOUDO Balkissa
 
+• NASSA Didier
+
 • SAWADOGO Asseta
 
 • KINI Jacob
